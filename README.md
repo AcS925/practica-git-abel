@@ -1,4 +1,4 @@
-# prueba
+# practica
 
    Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Web.
 
