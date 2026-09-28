@@ -1,4 +1,4 @@
-# Práctica de Git
+# practica
 
    Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Web.
 
